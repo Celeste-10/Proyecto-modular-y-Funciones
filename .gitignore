@@ -1,0 +1,23 @@
+.vs/
+*.vspscc
+*.suo
+*.user
+*.log
+*.pdb
+*.obj
+*.ncb
+*.opensdf
+*.sdf
+*.bak
+*.tlog
+*.vshost.exe
+*.vshost.exe.config
+*.vsidx
+*.log
+
+# Directorios de compilación
+bin/
+obj/
+
+# NuGet packages
+packages/
