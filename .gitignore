@@ -1,0 +1,11 @@
+# Visual Studio temporary files
+.vs/
+*.vsidx
+
+# Other common build and debug files
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.suo
