@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Studio temporary files
 .vs/
 *.vsidx
@@ -9,3 +10,28 @@
 *.dll
 *.pdb
 *.suo
+=======
+.vs/
+*.vspscc
+*.suo
+*.user
+*.log
+*.pdb
+*.obj
+*.ncb
+*.opensdf
+*.sdf
+*.bak
+*.tlog
+*.vshost.exe
+*.vshost.exe.config
+*.vsidx
+*.log
+
+# Directorios de compilación
+bin/
+obj/
+
+# NuGet packages
+packages/
+>>>>>>> 6d50bafc3807099fe8673b9ef4b03d01e40bf8d9
